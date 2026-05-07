@@ -1,6 +1,5 @@
 import random
 import time
-import pdb
 
 # half all arts damage against the great wizard
 
